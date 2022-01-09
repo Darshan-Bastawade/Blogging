@@ -1,3 +1,3 @@
 # Blogging
 
-This is project is only created for learning pupose.
+This project is only created for learning pupose.
